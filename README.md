@@ -1,3 +1,14 @@
+> ## ⚠️ This fork is archived and no longer maintained
+>
+> The changes made in this fork have been merged into the upstream project, so this fork no longer carries anything that isn't already upstream. All future development, bug fixes, and support happen there.
+>
+> **➡️ Please use the actively maintained upstream repository instead:**
+> **[randomBrainstormer/MMM-GoogleCalendar](https://github.com/randomBrainstormer/MMM-GoogleCalendar)**
+>
+> This fork is kept read-only for reference only. It is pinned to an older release (`v1.2.0`) and will not receive further updates.
+
+---
+
 # Module: MMM-GoogleCalendar
 
 This module is a customization from MagicMirror's default calendar module to display your Google calendars (including the Google Family calendar) without needing to make calendars public or using iCals. Inspired by the [GoogleTask module](https://github.com/jgauth/MMM-GoogleTasks).
